@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ScrollingText5</string>
+    <string name="article_title">Nuevo MacBook Pro 2018: Coffee Lake y RAM DDR4</string>
+    <string name="article_subtitle">Trae un procesador Intel de seis núcleos, con soporte para RAM DDR4 de hasta 32GB</string>
+    <string name="article_text">Para mas informacion visita www.macstoreonline.com.mx
+    \n\n
+        El pasado viernes, alguien con un MacBook Pro aún por catalogar
+        \n\n
+        realizó la popular prueba de potencia. Sabemos que se trata de un
+    \n\n
+        modelo nuevo,ya que tiene el número 14,3, mientras que los modelos
+    \n\n
+        de 2017 se denominan 13,3.
+    \n\n
+        Según las pruebas realizadas, podemos extraer varios detalles del nuevo equipo.
+    \n\n
+        ara empezar, el rendimiento single-core no es especialmente destacado si lo
+    \n\n
+        comparamos con la generación anterior. Apenas un 5-7% de mejora. Sí que se
+     \n\n\
+    </string>
+
+</resources>
